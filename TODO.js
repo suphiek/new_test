@@ -1,4 +1,9 @@
 /* TODO: 1.Display the numbers in the range 0...50 that are multiples of 5. */
+for(let i = 0; i <= 50; i++) {
+   if (i % 5 == 0) {
+      console.log(i)
+   }
+   }
 
 
 
